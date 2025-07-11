@@ -5,7 +5,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leprekus&hide_progress=true)
 
 ## About Me 
-I am a self taught full-stack developer with three years of professional experience. I am currently pursuing a bachelor's degree in Computer Science at the University of Victoria. My hobbies include building new ideas that I come up with. I also enjoy exercising and reading. I am a fairly outgoing person and enjoy taking the initiative and will not relent until I achieve the desired outcome. 
+I am a third year student at the University of Victoria. I started as a first-year with a background as a full-stack developer after having completed the Codecademy full-stack engineer path. My hobbies include going down computer-science related rabbit holes, I also enjoy boxing, bouldering, and weightligting.
 
 ## Skills
 ![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
