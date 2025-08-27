@@ -5,7 +5,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leprekus&hide_progress=true)
 
 ## About Me 
-I am a third year Computer Science student at the University of Victoria. I am passionate about computer architechture, networks, and algorithms.
+I am a third year Computer Science student at the University of Victoria, passionate about computer architechture, networks, and algorithms.
 
 ## Skills
 ![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
